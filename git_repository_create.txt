@@ -1,0 +1,4 @@
+Để tạo repository local trong máy
+Trước tiên cần có thư mục để tạo repository
+cd đến thư mục cần tạo repository, gõ lệnh
+git init

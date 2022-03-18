@@ -1,0 +1,8 @@
+** Để thêm remote repository
+git remote add <Tên repository> <url của repository>
+** Để push lên remote repository
+git push -u <tên repository> <tên branch>
+thêm -u có thể giản lược tên branch cho lần sau
+=> Nếu remote repository bị rỗng thì không giản lược được gì cả
+** Với repository đã clone
+Sử dụng git push để commit cho lần tiếp theo

@@ -1,0 +1,13 @@
+**Giả sử cần commit file test_git_commit.png vào repository
+**Sử dụng lệnh git status để kiểm tra trạng thái của working tree và index
+**Để đăng ký file trong index, Hãy sử dụng lệnh add
+git add test_git_commit.png
+**để đăng kí tất cả file trong thư mục
+git add .
+**Thực hiện commit:
+git commit -m "<Tin nhắn>"
+VD:
+git commit -m "first-commit"
+** Để kiểm tra lịch Sử
+git log
+

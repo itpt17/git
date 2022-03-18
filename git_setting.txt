@@ -1,0 +1,18 @@
+--------------------------------------------------------------------------------------------
+B1: Cài đặt git theo hướng dẫn trên google
+B2: Để kiểm tra phiên bản:
+    + Hãy chọn 1 thử mục bất kì
+    + Chuột phải => chọn git bash here
+B3: Trong giao diện command kiểm tra phiên bản bằng lệnh
+    git --version
+--------------------------------------------------------------------------------------------
+Một số thiết lập ban đầu:
+Thiết lập của git được ghi trong file .gitconfig
+Có thể thay đổi trực tiếp các thiết lập hoặc sử dụng lệnh config
+
+** Thiết lập tên người dùng
+git config --global user.name "<Tên người dùng>"
+** Thiết lập email người dùng
+git config --global user.email "<Email người dùng>"
+** Thiết lập bí danh(aliases)
+git config --global alias.co checkout => có thể thay checkout = co để sử dụng

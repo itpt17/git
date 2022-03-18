@@ -1,0 +1,3 @@
++ Push => chia sẻ lịch sử local repository
++ Clone => Sao chép một remote repository về máy 
++ Pull => Cập nhật local repository từ remote repository

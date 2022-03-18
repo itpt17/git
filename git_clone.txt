@@ -1,0 +1,4 @@
+Để clone một remote repository
+git clone <repository> <directory>
+với repository là url của remote repository,
+directory là tên thư mục muốn clone tới
